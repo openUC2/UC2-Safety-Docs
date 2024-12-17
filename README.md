@@ -1,6 +1,11 @@
 # UC2-Safety-Docs
 This hosts all the safety-related documents for producing UC2 parts
 
+## Anleitung für Ersthelfer:
+
+Hier findest du die Anlelitung für die Erste Hilfe: [PDF Dokument](https://github.com/01f9aae6-5d2a-44a0-87f2-251b26619097)
+
+
 ## Aushangpflichtige Gesetze:
 
 Die aushangpflichtigen Gesetze kannst du kostenlos oder in vollständiger Form von den folgenden offiziellen Quellen herunterladen:
